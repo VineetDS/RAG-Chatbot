@@ -11,7 +11,3 @@ Features
 - Generate conversational responses using GooglePalm LLM.
 - User-friendly interface built with Streamlit.
 
-Setup Instructions
-1. Clone the Repository
-git clone <repository_url>
-cd <repository_directory>
